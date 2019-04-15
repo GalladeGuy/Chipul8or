@@ -1,6 +1,13 @@
 # Chipul8or
 A simple Chip8 emulator written in C
 
-No sound yet
+Just drag and drop a rom onto it to play.
 
-If you're wondering why some stuff doesn't work, that's probably because I suck at programming.
+Keep in mind that there's no sound yet, and that it still might not work with some roms.
+
+### Key Mappings
+ 1 | 2 | 3 | 4
+--- | --- | --- | ---
+q | w | e | r
+a | s | d | f
+z | x | c | v
